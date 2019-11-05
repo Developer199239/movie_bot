@@ -3,3 +3,6 @@ requests==2.18.4
 dialogflow==0.7.2
 python-dotenv==0.8.2
 pusher==2.1.4
+
+pip install SpeechRecognition
+pip install pyaudio
